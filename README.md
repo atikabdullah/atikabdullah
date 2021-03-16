@@ -4,7 +4,7 @@
 <div align="centre">
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/atikabdullah)
-[![Linkedin Badge](https://img.shields.io/badge/-Vedant%20Khairnar-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/vedantkhairnar/)](https://www.linkedin.com/in/........../) [![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/atikabdullah9)](https://twitter.com/atikabdullah9) [![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/atikabdullah/?tab=follow)
+[![Linkedin Badge](https://img.shields.io/badge/-Atik%20Abdullah-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/atikabdullah/)](https://www.linkedin.com/in/........../) [![Twitter Badge](http://img.shields.io/badge/-@VedantKhairnar3-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/atikabdullah9)](https://twitter.com/atikabdullah9) [![GitHub followers](https://img.shields.io/github/followers/VedantKhairnar?label=Follow&style=social)](https://github.com/atikabdullah/?tab=follow)
 
 [![Atik Abdullah]
 
